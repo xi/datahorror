@@ -3,5 +3,8 @@ disableKinds = ['taxonomy', 'term']
 [outputs]
 home = ["HTML"]
 
+[markup.goldmark.parser.attribute]
+block = true
+
 [markup.goldmark.renderer]
 unsafe = true  # allow HTML

@@ -27,12 +27,18 @@ list.
 13. The number of times your publication was downloaded.
 14. Your favourite fictional ghost.
 
-Can you crack the code of the cabinet by indicating which details about your
-research would be necessary for a PhD candidate to download, understand,
-interpret and use your data? Write your answer as 1-2-3-4...
-
-1-2-4-6-8-10-12
-
-The filing cabinet creaks while you pull it open. It's empty, except for one
-sheet of paper. In thick, dark letters, there's just one word: HORROR. Shiver,
-and make a note of it
+<form novalidate>
+  <label>
+    Can you find the combination for the cabinet by indicating which details about your
+    research would be necessary for a PhD candidate to download, understand,
+    interpret and use your data?
+    <input required pattern="1-2-4-6-8-10-12" placeholder="1-2-3-4">
+  </label>
+  <p class="form-if-incorrect">That's not it.</p>
+  <p class="form-if-correct">
+    The filing cabinet creaks while you pull it open. It's empty, except for one
+    sheet of paper. In thick, dark letters, there's just one word: HORROR. Shiver,
+    and make a note of it
+  </p>
+  <button>Check</button>
+</form>

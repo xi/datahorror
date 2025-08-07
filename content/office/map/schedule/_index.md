@@ -35,14 +35,19 @@ paths:
 >
 > NB Moldova and Ukraine aren’t EU.
 
-Which of the following steps does Professor Hutseephluts need to take to secure the data, some of which are personal? (multiple answers possible)
+<form novalidate>
+  <fieldset>
+    <legend>Which of the following steps does Professor Hutseephluts need to take to secure the data, some of which are personal?</legend>
+    <label class="form-check"><input type="checkbox" required> Contact a data management expert to discuss how to secure the file transfer from the audio device/photo camera to a laptop</label>
+    <label class="form-check"><input type="checkbox" required> Contact a data management expert to discuss back-up(s)</label>
+    <label class="form-check"><input type="checkbox" required> Contact a data management expert to help out with the data classification</label>
+    <label class="form-check"><input type="checkbox" required> Contact a legal expert to discuss the border transfers of personal data and local legislation</label>
+    <label class="form-check"><input type="checkbox" required> Contact a legal expert to discuss if other legal safeguards or agreements are necessary</label>
+    <label class="form-check"><input type="checkbox" required> Speak to IT to discuss encryption and secure transportation</label>
+    <label class="form-check"><input type="checkbox" required> Contact a legal expert to find help with filling out a Data Protection Impact Assessment</label>
+  </fieldset>
 
--   Contact a data management expert to discuss how to secure the file transfer from the audio device/photo camera to a laptop
--   Contact a data management expert to discuss back-up(s)
--   Contact a data management expert to help out with the data classification
--   Contact a legal expert to discuss the border transfers of personal data and local legislation
--   Contact a legal expert to discuss if other legal safeguards or agreements are necessary
--   Speak to IT to discuss encryption and secure transportation
--   Contact a legal expert to find help with filling out a Data Protection Impact Assessment
-
-Well done! On the back of the note, Prof. Hutseephluts scribbled PLANNING. Make a note of that
+  <p class="form-if-incorrect">Think again!</p>
+  <p class="form-if-correct">Well done! On the back of the note, Prof. Hutseephluts scribbled PLANNING. Make a note of that.</p>
+  <button>Check</button>
+</form>

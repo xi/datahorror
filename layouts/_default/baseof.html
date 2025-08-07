@@ -49,5 +49,10 @@
             based on <a href="https://sites.google.com/vu.nl/datahorror/">Data Horror Escape Room</a> by Vrije Universiteit Amsterdam, Leiden University and Eindhoven University of Technology
         </div>
     </footer>
+    {{ with resources.Get "riddles.js" -}}
+        {{ with . | fingerprint -}}
+            <script type="module" src="{{ .RelPermalink }}"></script>
+        {{- end }}
+    {{- end }}
 </body>
 </html>
