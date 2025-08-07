@@ -10,8 +10,8 @@ paths:
 The Professor might have left the office open, but at least the computer is
 locked so no-one can mess with his files.
 
-Maybe the computer offers a way out of the office. But... you need a
-password... how and where can you find it?
+The computer might offers a way out of the office. But… you need a
+password…. Maybe the clues are in this room.
 
 <form novalidate>
   <label>
@@ -19,17 +19,20 @@ password... how and where can you find it?
     <input required pattern="GOOD PLANNING HELPS AVOID DATA HORROR" class="w-100">
   </label>
   <p class="form-if-incorrect">That's not it.</p>
-  <button>Check</button>
-  <blockquote class="form-if-correct">
-    <h2>Data Management Plan</h2>
-    <p>Please read this Data Management Plan before submitting</p>
+  <div class="form-if-correct">
     <p>
-      Lead researcher: Professor Hutseephluts<br>
-      ORCID: 0000-7f80-9074-7564<br>
-      Others with data management responsibilities: PhD candidate (name to be confirmed).<br>
+      You unlock the computer and frantically begin to write a Data Management
+      Plan (DMP), using all the details you learned about Professor Hutseephluts'
+      research.
     </p>
-    <p>This is the first version of the data management plan of the research project about ghost sightings around Halloween. A Data Management Plan (DMP) is a living document, and will be updated as the project progresses.</p>
-
-    ![](./dmp.png)
-  </blockquote>
+    <p>
+      Just as you finish typing the final sentence, an elderly man enters the room.
+      "I just stepped out to grab some coffee," he says, exhaling a weary sigh.
+      "This Data Management Plan is driving me to my last nerve. This would all
+      have been much simpler if I had thought about it from the start!"
+    </p>
+    <p><strong>Congratulations. You have finished the game!</strong></p>
+    <p>Just to be sure, you should <a href="./dmp/">read the DMP</a> one final time before submitting it.</p>
+  </div>
+  <button>Check</button>
 </form>
