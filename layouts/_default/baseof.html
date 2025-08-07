@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+    <title>Data Horror Escape Room</title>
+    <link rel="stylesheet" type="text/css" href="{{ "/style.css" | relURL }}">
+</head>
+<body>
+    <header>
+        <a class="brand" href="/" rel="home">Data Horror Escape Room</a>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about/">About this website</a>
+        </nav>
+    </header>
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+        &copy; 2025 Tobias Bengfort &middot;
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA-4.0</a> <br>
+        based on <a href="https://sites.google.com/vu.nl/datahorror/">Data Horror Escape Room</a> by Vrije Universiteit Amsterdam, Leiden University and Eindhoven University of Technology
+    </footer>
+</body>
+</html>
