@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
     <title>Data Horror Escape Room</title>
-    <link rel="stylesheet" type="text/css" href="{{ "style.css" | relURL }}">
+    {{ with resources.Get "style.css" }}
+        {{ with . | fingerprint }}
+            <link rel="stylesheet" type="text/css" href="{{ .RelPermalink }}">
+        {{ end }}
+    {{ end }}
 </head>
 <body>
     <header>
