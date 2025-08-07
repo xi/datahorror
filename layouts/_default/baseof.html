@@ -37,7 +37,7 @@
 
             <ul class="paths">
                 {{ range .Params.Paths -}}
-                    <li><a href="{{ .url | relURL }}">{{ .label }}</a></li>
+                    <li><a href="{{ .url | relURL }}" {{- if hasPrefix .url "http" }}target="_blank"{{ end }}>{{ .label }}</a></li>
                 {{- end }}
             </ul>
         </div>
