@@ -1,0 +1,48 @@
+You open the booklet and hold it next to the camera menu
+
+You see several statements about FAIR data in the manual. You need to enter the
+letters that correspond to the correct statements into the camera menu.
+
+Jane is working on a study where she interviews employees about their work
+satisfaction. She is planning to hire an agency to do the transcription of the
+interviews. She will also use market analysis data to see if there are
+correlations between the level of satisfaction and the success of the company.
+
+Which activities will help her produce a FAIR dataset that allows others to
+replicate or build upon her research?
+
+A.  Making the contract with the agency doing the transcription of the
+    interviews publicly available.
+B.  Putting a link on her personal website to the original interview files and
+    the personal data of the people she interviewed.
+C.  Discussing with her supervisor who will be allowed what level of access to
+    the dataset and when
+D.  Checking what keywords are used by colleagues to categorize the market
+    analysis and including these terms in the description of the data
+E.  Keeping a record of how she manipulates the data and what all her codes
+    mean.
+F.  Adding a note in her publications to say that researchers interested in the
+    data are welcome to contact her for more details. Because the interview data
+    are qualitative there is no need to share them, or include any metadata or
+    explanations
+G.  Finding a trusted data repository that is well-known and used by other
+    researchers in the field to deposit their data,  checking if the repository
+    assigns a persistent identifier, and whether access and authorization
+    procedures are in place.
+H.  Keeping a full list of satisfied ghosts she met at the agency doing the
+    transcription
+
+Write your answer as A, B, C, D, E, F, G You need to select the letters that
+correspond to the correct answers
+
+CDEG
+
+In the camera menu, there's only one option: DATA. Make a note of it
+
+
+[Play the video that is on the camera](https://www.youtube.com/watch?v=2uZxFu9SFi8)
+
+[Take a look around Professor Hutseephluts' office](/office/)
+
+
+Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/s/photos/manual)
