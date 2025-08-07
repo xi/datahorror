@@ -4,9 +4,9 @@
 
     color-scheme: dark;
     --color-border: #aaa;
-    --color-bg: #555550;
-    --color-bg2: #434340;
-    --color-bg3: #3f3f3f;
+    --color-bg: #333;
+    --color-bg2: #222;
+    --color-bg3: #111;
     --color-fg: #fff;
 }
 
@@ -179,7 +179,7 @@ figcaption {
     padding-inline: 0.5em;
     padding-block: 0.1em;
     font-size: 90%;
-    background-color: rgba(67,67,64,0.8);
+    background-color: #333a;
     color: var(--color-fg);
 }
 
