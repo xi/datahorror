@@ -100,3 +100,24 @@ figcaption {
     background-color: rgba(67,67,64,0.8);
     color: #fff;
 }
+
+.paths {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
+    gap: 1em;
+    margin-block: 2em;
+    padding: 0;
+    list-style: none;
+}
+
+.paths a {
+    display: block;
+    background-color: #434340;
+    padding-inline: 1em;
+    padding-block: 0.5em;
+    text-decoration: none;
+}
+
+.paths a:hover {
+    background-color: #3f3f3f;
+}

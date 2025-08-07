@@ -35,9 +35,11 @@
         <div class="container">
             {{- block "main" . -}}{{- end -}}
 
-            {{ range .Params.Paths -}}
-                <p><a href="{{ .url | relURL }}">{{ .label }}</a></p>
-            {{- end }}
+            <ul class="paths">
+                {{ range .Params.Paths -}}
+                    <li><a href="{{ .url | relURL }}">{{ .label }}</a></li>
+                {{- end }}
+            </ul>
         </div>
     </main>
     <footer>
