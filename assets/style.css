@@ -9,6 +9,17 @@ img {
     block-size: auto;
 }
 
+blockquote {
+    border-inline-start: 0.5em solid #aaa;
+    margin-inline: 0;
+    padding-inline-start: 0.7em;
+    font-style: italic;
+}
+
+ul, ol {
+    padding-inline-start: 1.5em;
+}
+
 body {
     background-color: #555550;
     color: #fff;
