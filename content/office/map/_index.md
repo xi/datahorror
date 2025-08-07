@@ -1,7 +1,7 @@
 ---
 paths:
   - label: 'Read the note'
-    url: 'https://web.archive.org/web/20210116025852/https://libguides.vu.nl/rdm/data-protection#s-lg-box-wrapper-15125665'
+    url: 'https://rdm.vu.nl/topics/safe-data-transfer.html'
   - label: 'Read the travel schedule'
     url: 'office/map/schedule/'
   - label: "Take a look around Professor Hutseephluts' office"
