@@ -29,11 +29,11 @@ paths:
 
 <details>
   <summary>Hint</summary>
-  <p>An ORCID id is a 16-digit code (you can read more about it on a flyer on the
+  <p>An ORCID (Open Researcher and Contributor ID) is a 16-digit code (you can read more about it on a flyer on the
   noticeboard or on the ORCID website). There are a couple of places on the
   noticeboard where you will find a DOI that can be googled, or a direct link,
-  that leads to a dataset belonging to Pablo and his colleagues. His ORCID id can
+  that leads to a dataset belonging to Pablo and his colleagues. His ORCID can
   be found by hovering over (or clicking) the ORCID logo by his name and looking
-  at the 16-digit code that is a part of the URL. Make a note of Pablo's ORCID id
+  at the 16-digit code that is a part of the URL. Make a note of Pablo's ORCID
   and use it to decipher the coded sheet.</p>
 </details>
