@@ -1,5 +1,14 @@
 ---
 banner: 'img/noticeboard.png'
+paths:
+  - label: 'Look at the postcard'
+    url: 'office/noticeboard/postcard/'
+  - label: 'Read the flyers'
+    url: 'office/noticeboard/flyers/'
+  - label: 'Look at the coded sheet'
+    url: 'office/noticeboard/coded-sheet/'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 On the wall by Professor Hutseephluts' desk hangs a noticeboard. Papers are
@@ -21,11 +30,3 @@ events, travel itineries, book lists and photos, there is a postcard that seems
 to have been pinned on the board slightly apart from everything else, and a
 strange sheet of paper printed with, what looks like, random letters and
 numbers. Perhaps it is a code!
-
-[Look at the postcard](/office/noticeboard/postcard/)
-
-[Read the flyers](/office/noticeboard/flyers/)
-
-[Look at the coded sheet](/office/noticeboard/coded-sheet/)
-
-[Take a look around Professor Hutseephluts' office](/office/)

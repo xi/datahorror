@@ -2,6 +2,11 @@
 banner: 'img/markus-winkler-HiB5ItDg4ME-unsplash.jpg'
 bannerAttribution: 'Markus Winkler'
 bannerAttributionLink: 'https://unsplash.com/photos/HiB5ItDg4ME'
+paths:
+  - label: 'Play the video that is on the camera'
+    url: 'https://www.youtube.com/watch?v=2uZxFu9SFi8'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 You open the booklet and hold it next to the camera menu
@@ -44,8 +49,3 @@ correspond to the correct answers
 CDEG
 
 In the camera menu, there's only one option: DATA. Make a note of it
-
-
-[Play the video that is on the camera](https://www.youtube.com/watch?v=2uZxFu9SFi8)
-
-[Take a look around Professor Hutseephluts' office](/office/)

@@ -1,3 +1,9 @@
+---
+paths:
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
+---
+
 Travel schedule
 
 -   1 July: arrival in Sibiu, Romania
@@ -41,6 +47,3 @@ Which of the following steps does Professor Hutseephluts need to take to secure 
 -   Contact a legal expert to find help with filling out a Data Protection Impact Assessment
 
 Well done! On the back of the note, Prof. Hutseephluts scribbled PLANNING. Make a note of that
-
-
-[Take a look around Professor Hutseephluts' office](/office/)

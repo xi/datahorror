@@ -2,6 +2,13 @@
 banner: 'img/dan-cristian-padure-bw2rUF3TNaM-unsplash.jpg'
 bannerAttribution: 'Dan-Cristian Pădureț'
 bannerAttributionLink: 'https://unsplash.com/photos/bw2rUF3TNaM'
+paths:
+  - label: 'Play the video that is on the camera'
+    url: 'https://www.youtube.com/watch?v=2uZxFu9SFi8'
+  - label: 'Press on some of the buttons to get to the menu'
+    url: 'office/camera/manual/'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 There is a video camera lying on the chair in the corner of the room. It looks
@@ -20,10 +27,3 @@ planning on using them, or even if you could still open the files.
 
 You pick up the camera and switch it on. Maybe there's a clue to the
 Professor's whereabouts...
-
-
-[Play the video that is on the camera](https://www.youtube.com/watch?v=2uZxFu9SFi8)
-
-[Press on some of the buttons to get to the menu](/office/camera/manual/)
-
-[Take a look around Professor Hutseephluts' office](/office/)

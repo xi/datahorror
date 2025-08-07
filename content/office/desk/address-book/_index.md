@@ -1,3 +1,11 @@
+---
+paths:
+  - label: 'Close the address book and go back to the desk'
+    url: 'office/desk/'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
+---
+
 ![](./address-book.png)
 
 Which of the data in the address book are personal data? (multiple answers possible) *
@@ -35,7 +43,3 @@ Put the studies in chronological order. You are given the following clues:
 DBECA
 
 Well done! A scrap of paper falls out of the address book, with the following word written on it: GOOD. Make a note of it.
-
-[Close the address book and go back to the desk](/office/desk/)
-
-[Take a look around Professor Hutseephluts' office](/office/)

@@ -2,6 +2,11 @@
 banner: 'img/sebastiaan-stam-WXeJcabNzhE-unsplash.jpg'
 bannerAttribution: 'sebastiaan stam'
 bannerAttributionLink: 'https://unsplash.com/photos/WXeJcabNzhE'
+paths:
+  - label: 'You try the door'
+    url: 'intro/stepping-into-the-office/'
+  - label: 'Instead of entering the room you decide to read the posters hanging on the wall'
+    url: 'https://vu.nl/en/about-vu/more-about/stories'
 ---
 
 You've received an urgent message from Professor Hutseephluts asking you to
@@ -26,7 +31,3 @@ complain.
 
 You reach the office door and politely knock. You knock again. But there's no
 answer.
-
-[You try the door](/intro/stepping-into-the-office/)
-
-[Instead of entering the room you decide to read the posters hanging on the wall](https://vu.nl/en/about-vu/more-about/stories)

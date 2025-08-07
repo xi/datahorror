@@ -2,6 +2,9 @@
 banner: 'img/pumkin.jpg'
 bannerAttribution: 'Ben Peters'
 bannerAttributionLink: 'http://www.dehondsdagen.nl/'
+paths:
+  - label: 'ENTER'
+    url: 'intro/'
 ---
 
 Dear Guest,
@@ -47,5 +50,3 @@ researchers with various RDM-related questions. Depending on your
 affiliation, check out the RDM resources and support at [VU Amsterdam](https://libguides.vu.nl/rdm),
 [Eindhoven University of Technology](https://www.tue.nl/rdm) and
 [Leiden University](https://www.library.universiteitleiden.nl/researchers/data-management).
-
-[**ENTER**](/intro/)

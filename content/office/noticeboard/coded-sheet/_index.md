@@ -1,17 +1,18 @@
 ---
 banner: 'img/noticeboard.png'
+paths:
+  - label: 'Look at the noticeboard again'
+    url: 'office/noticeboard/'
+  - label: 'Hint?'
+    url: 'office/noticeboard/coded-sheet/hint/'
+  - label: 'Read the flyers'
+    url: 'office/noticeboard/flyers/'
+  - label: 'Look at the postcard'
+    url: 'office/noticeboard/postcard/'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 # Coded sheet
 
 ![](./coded-sheet.png)
-
-[Look at the noticeboard again](/office/noticeboard/)
-
-[Hint?](/office/noticeboard/coded-sheet/hint/)
-
-[Read the flyers](/office/noticeboard/flyers/)
-
-[Look at the postcard](/office/noticeboard/postcard/)
-
-[Take a look around Professor Hutseephluts' office](/office/)

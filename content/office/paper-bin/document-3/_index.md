@@ -2,6 +2,13 @@
 banner: 'img/steve-johnson-Kr8Tc8Rugdk-unsplash.jpg'
 bannerAttribution: 'Steve Johnson'
 bannerAttributionLink: 'https://unsplash.com/photos/Kr8Tc8Rugdk'
+paths:
+  - label: 'Look again at the first hidden document'
+    url: 'office/paper-bin/document-1/'
+  - label: 'Look again at the second hidden document'
+    url: 'office/paper-bin/document-2/'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 # Hidden document 3
@@ -57,9 +64,3 @@ ABE
 True or False? If there is no licence, this means that anyone can do anything with the data.
 
 Well done, you've passed the test! Prof. Hutseephluts marked the bottom of the bin with the word AVOID. Make a note of it.
-
-[Look again at the first hidden document](/office/paper-bin/document-1/)
-
-[Look again at the second hidden document](/office/paper-bin/document-2/)
-
-[Take a look around Professor Hutseephluts' office](/office/)

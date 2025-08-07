@@ -2,6 +2,15 @@
 banner: 'img/brett-jordan-oO7txJP2hls-unsplash.jpg'
 bannerAttribution: 'Brett Jordan'
 bannerAttributionLink: 'https://unsplash.com/photos/oO7txJP2hls'
+paths:
+  - label: 'Put the postcard back on the Noticeboard'
+    url: 'office/noticeboard/'
+  - label: 'Read the flyers'
+    url: 'office/noticeboard/flyers/'
+  - label: 'Look at the coded sheet'
+    url: 'office/noticeboard/coded-sheet/'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 # Postcard
@@ -41,11 +50,3 @@ The back of the postcard reads:
 > Yours, in academic respect,
 >
 > Marisela
-
-[Put the postcard back on the Noticeboard](/office/noticeboard/)
-
-[Read the flyers](/office/noticeboard/flyers/)
-
-[Look at the coded sheet](/office/noticeboard/coded-sheet/)
-
-[Take a look around Professor Hutseephluts' office](/office/)

@@ -1,5 +1,8 @@
 ---
 banner: 'img/noticeboard.png'
+paths:
+  - label: 'Back to coded sheet'
+    url: 'office/noticeboard/coded-sheet/'
 ---
 
 # Coded sheet hint
@@ -11,5 +14,3 @@ that leads to a dataset belonging to Pablo and his colleagues. His ORCID id can
 be found by hovering over (or clicking) the ORCID logo by his name and looking
 at the 16-digit code that is a part of the URL. Make a note of Pablo's ORCID id
 and use it to decipher the coded sheet.
-
-[Back to coded sheet](/office/noticeboard/coded-sheet/)

@@ -2,6 +2,11 @@
 banner: 'img/kaur-kristjan-CpPF4W5PB1c-unsplash.jpg'
 bannerAttribution: 'Kaur Kristjan'
 bannerAttributionLink: 'https://unsplash.com/photos/CpPF4W5PB1c'
+paths:
+  - label: 'Try to open the door'
+    url: 'locked-door/'
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 You push against the door – it creaks open slowly giving you a glimpse into the
@@ -14,7 +19,3 @@ Professor Hutseephluts doesn't appear to be there. Maybe you should just leave.
 But suddenly, the door shuts behind you with a loud bang followed by a series
 of clicks. Did the door just lock itself shut? If so, you’re trapped in the
 office. What do you do?
-
-[Try to open the door](/locked-door/)
-
-[Take a look around Professor Hutseephluts' office](/office/)

@@ -2,6 +2,9 @@
 banner: 'img/safe.jpg'
 bannerAttribution: 'Regionaal Archief Alkmaar / CC BY 2.0'
 bannerAttributionLink: 'https://www.flickr.com/photos/archiefalkmaar/50143958452/in/album-72157715206432068/'
+paths:
+  - label: "Take a look around Professor Hutseephluts' office"
+    url: 'office/'
 ---
 
 The filing cabinet looks old, battered and heavily used. Probably the Professor
@@ -33,5 +36,3 @@ interpret and use your data? Write your answer as 1-2-3-4...
 The filing cabinet creaks while you pull it open. It's empty, except for one
 sheet of paper. In thick, dark letters, there's just one word: HORROR. Shiver,
 and make a note of it
-
-[Take a look around Professor Hutseephluts' office](/office/)

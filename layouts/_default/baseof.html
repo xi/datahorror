@@ -34,6 +34,10 @@
         {{- end }}
         <div class="container">
             {{- block "main" . -}}{{- end -}}
+
+            {{ range .Params.Paths -}}
+                <p><a href="{{ .url | relURL }}">{{ .label }}</a></p>
+            {{- end }}
         </div>
     </main>
     <footer>
