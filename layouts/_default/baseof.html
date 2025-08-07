@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
     <title>Data Horror Escape Room</title>
-    <link rel="stylesheet" type="text/css" href="{{ "/style.css" | relURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ "style.css" | relURL }}">
 </head>
 <body>
     <header>
         <div class="container">
-            <a class="brand" href="/" rel="home">Data Horror Escape Room</a>
+            <a class="brand" href="{{ "" | relURL }}" rel="home">Data Horror Escape Room</a>
             <nav>
-                <a href="/">Home</a>
-                <a href="/about/">About this website</a>
+                <a href="{{ "" | relURL }}">Home</a>
+                <a href="{{ "about" | relURL }}">About this website</a>
             </nav>
         </div>
     </header>
