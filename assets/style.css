@@ -139,3 +139,15 @@ figcaption {
     margin-block-end: 1em;
     border: 0;
 }
+
+table {
+    inline-size: 100%;
+    border-collapse: collapse;
+}
+td, th {
+    padding: 0.4em;
+    border: 1px solid #aaa;
+    font-weight: normal;
+    text-align: start;
+    line-height: 1.4;
+}

@@ -13,7 +13,7 @@ paths:
 
 # Hidden document 1
 
-![](./re3data.jpg)
+[![](./re3data.jpg)](https://en.wikipedia.org/wiki/Re3data)
 
 Hmmm... a printout of a Wikipedia page. Very strange. It's about something
 called re3data.org - what is that? Why would the Professor print this out? And
