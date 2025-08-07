@@ -1,5 +1,7 @@
 ---
-banner: 'img/noticeboard.png'
+banner: 'img/qingyu-7PP4RKH8aII-unsplash.jpg'
+bannerAttribution: 'QingYu'
+bannerAttributionLink: 'https://unsplash.com/photos/7PP4RKH8aII'
 paths:
   - label: 'Back to coded sheet'
     url: 'office/noticeboard/coded-sheet/'
