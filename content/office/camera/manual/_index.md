@@ -6,7 +6,7 @@ paths:
   - label: 'Read the manual to figure out the code'
     url: 'office/camera/menu/'
   - label: 'Take one more look at the video on the camera'
-    url: 'office/camera/'
+    url: 'https://www.youtube.com/watch?v=2uZxFu9SFi8'
   - label: "Take a look around Professor Hutseephluts' office"
     url: 'office/'
 ---
