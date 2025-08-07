@@ -17,10 +17,11 @@ img {
 }
 
 blockquote {
-    border-inline-start: 0.5em solid var(--color-border);
     margin-inline: 0;
-    padding-inline-start: 0.7em;
-    font-style: italic;
+    padding: 1em;
+    box-shadow: 0.2em 0.2em 1em rgba(0,0,0,0.3);
+    background: var(--color-fg);
+    color: var(--color-bg2);
 }
 
 ul, ol {
