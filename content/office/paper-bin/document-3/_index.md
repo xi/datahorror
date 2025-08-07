@@ -1,3 +1,9 @@
+---
+banner: 'img/steve-johnson-Kr8Tc8Rugdk-unsplash.jpg'
+bannerAttribution: 'Steve Johnson'
+bannerAttributionLink: 'https://unsplash.com/photos/Kr8Tc8Rugdk'
+---
+
 # Hidden document 3
 
 You found a test! You better not disappoint Prof. Hutseephluts and answer all

@@ -1,3 +1,7 @@
+---
+banner: 'img/noticeboard.png'
+---
+
 # Flyers
 
 ![](./ORCID-flyer.pdf)

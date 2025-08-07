@@ -1,6 +1,12 @@
+---
+banner: 'img/steve-johnson-Kr8Tc8Rugdk-unsplash.jpg'
+bannerAttribution: 'Steve Johnson'
+bannerAttributionLink: 'https://unsplash.com/photos/Kr8Tc8Rugdk'
+---
+
 # Hidden document 2
 
-![](./Crumple.jpg)
+![](./crumple.jpg)
 
 This one's a hand-written note. Is it the Professor's handwriting? Was the
 Professor trying to investigate data repositories...? And a place to deposit

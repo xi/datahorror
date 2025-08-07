@@ -1,3 +1,9 @@
+---
+banner: 'img/dan-cristian-padure-bw2rUF3TNaM-unsplash.jpg'
+bannerAttribution: 'Dan-Cristian Pădureț'
+bannerAttributionLink: 'https://unsplash.com/photos/bw2rUF3TNaM'
+---
+
 There is a video camera lying on the chair in the corner of the room. It looks
 like it was recently taken out of the bag that's also on the chair. You've
 heard that the Professor had just returned from some travels.
@@ -21,6 +27,3 @@ Professor's whereabouts...
 [Press on some of the buttons to get to the menu](/office/camera/manual/)
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-
-Photo by [Dan-Cristian Pădureț](https://unsplash.com/@dancristianp) on [Unsplash](https://unsplash.com/s/photos/video-camera)

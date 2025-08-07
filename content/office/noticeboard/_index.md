@@ -1,3 +1,7 @@
+---
+banner: 'img/noticeboard.png'
+---
+
 On the wall by Professor Hutseephluts' desk hangs a noticeboard. Papers are
 pinned all over it in a confusion of printouts, flyers, pictures, reminders,
 and souvenirs from travels around the world.

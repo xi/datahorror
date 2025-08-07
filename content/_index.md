@@ -1,3 +1,9 @@
+---
+banner: 'img/pumkin.jpg'
+bannerAttribution: 'Ben Peters'
+bannerAttributionLink: 'http://www.dehondsdagen.nl/'
+---
+
 Dear Guest,
 
 Welcome to our Escape Room. We are so happy to see you here!
@@ -43,5 +49,3 @@ affiliation, check out the RDM resources and support at [VU Amsterdam](https://l
 [Leiden University](https://www.library.universiteitleiden.nl/researchers/data-management).
 
 [**ENTER**](/intro/)
-
-Image by [Ben Peters](http://www.dehondsdagen.nl/)

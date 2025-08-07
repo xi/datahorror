@@ -2,3 +2,6 @@ disableKinds = ['taxonomy', 'term']
 
 [outputs]
 home = ["HTML"]
+
+[markup.goldmark.renderer]
+unsafe = true  # allow HTML

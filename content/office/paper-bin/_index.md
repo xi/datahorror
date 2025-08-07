@@ -1,3 +1,9 @@
+---
+banner: 'img/steve-johnson-Kr8Tc8Rugdk-unsplash.jpg'
+bannerAttribution: 'Steve Johnson'
+bannerAttributionLink: 'https://unsplash.com/photos/Kr8Tc8Rugdk'
+---
+
 The waste paper bin in the office of Professor Hutseephluts is atonishingly
 full, which is weird because you know that all the waste paper bins at the
 department were emptied by the cleaner yesterday. The Professor must be
@@ -15,6 +21,3 @@ Do you have time to look through everything?
 [Look at the first hidden document](/office/paper-bin/document-1/)
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-
-Photo by [Steve Johnson](https://unsplash.com/@steve_j) on [Unsplash](https://unsplash.com/s/photos/mystery)

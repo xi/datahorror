@@ -1,3 +1,9 @@
+---
+banner: 'img/safe.jpg'
+bannerAttribution: 'Regionaal Archief Alkmaar / CC BY 2.0'
+bannerAttributionLink: 'https://www.flickr.com/photos/archiefalkmaar/50143958452/in/album-72157715206432068/'
+---
+
 The filing cabinet looks old, battered and heavily used. Probably the Professor
 is storing lots of research data inside it alongside important documents. You
 try to open it, but it's locked. On top of it lies a note with a mysterious
@@ -29,5 +35,3 @@ sheet of paper. In thick, dark letters, there's just one word: HORROR. Shiver,
 and make a note of it
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-Photo: ["Voormalige kluis DNB Alkmaar"](https://www.flickr.com/photos/archiefalkmaar/50143958452/in/album-72157715206432068/) by Regionaal Archief Alkmaar / CC BY 2.0

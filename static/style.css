@@ -4,6 +4,7 @@
 }
 
 img {
+    display: block;
     max-inline-size: 100%;
     block-size: auto;
 }
@@ -34,7 +35,7 @@ footer {
     padding-block: 1rem;
 }
 
-main {
+main .container {
     padding-block: 1rem 3rem;
 }
 
@@ -72,4 +73,30 @@ nav {
 nav a {
     font-weight: bold;
     text-decoration: none;
+}
+
+.banner {
+    margin: 0;
+}
+
+.banner img {
+    inline-size: 100%;
+    block-size: 20em;
+    max-block-size: 33vb;
+    object-fit: cover;
+}
+
+figure {
+    position: relative;
+}
+
+figcaption {
+    position: absolute;
+    inset-inline-end: 0;
+    inset-block-end: 0;
+    padding-inline: 0.5em;
+    padding-block: 0.1em;
+    font-size: 90%;
+    background-color: rgba(67,67,64,0.8);
+    color: #fff;
 }

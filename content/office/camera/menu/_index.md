@@ -1,3 +1,9 @@
+---
+banner: 'img/markus-winkler-HiB5ItDg4ME-unsplash.jpg'
+bannerAttribution: 'Markus Winkler'
+bannerAttributionLink: 'https://unsplash.com/photos/HiB5ItDg4ME'
+---
+
 You open the booklet and hold it next to the camera menu
 
 You see several statements about FAIR data in the manual. You need to enter the
@@ -43,6 +49,3 @@ In the camera menu, there's only one option: DATA. Make a note of it
 [Play the video that is on the camera](https://www.youtube.com/watch?v=2uZxFu9SFi8)
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-
-Photo by [Markus Winkler](https://unsplash.com/@markuswinkler) on [Unsplash](https://unsplash.com/s/photos/manual)

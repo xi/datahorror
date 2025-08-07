@@ -18,6 +18,16 @@
         </div>
     </header>
     <main>
+        {{ if .Params.Banner }}
+            <figure class="banner">
+                <img src="{{ .Params.Banner | relURL }}" alt="">
+                {{ if .Params.BannerAttribution }}
+                    <figcaption>
+                        © <a href="{{ .Params.BannerAttributionLink }}">{{ .Params.BannerAttribution }}</a>
+                    </figcaption>
+                {{ end }}
+            </figure>
+        {{ end }}
         <div class="container">
             {{ block "main" . }}{{ end }}
         </div>

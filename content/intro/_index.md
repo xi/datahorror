@@ -1,3 +1,9 @@
+---
+banner: 'img/sebastiaan-stam-WXeJcabNzhE-unsplash.jpg'
+bannerAttribution: 'sebastiaan stam'
+bannerAttributionLink: 'https://unsplash.com/photos/WXeJcabNzhE'
+---
+
 You've received an urgent message from Professor Hutseephluts asking you to
 come to an old office hidden away on the top floor. It’s Thursday, half past
 six, and you’d rather go home, but you've never met the Professor and the email
@@ -24,5 +30,3 @@ answer.
 [You try the door](/intro/stepping-into-the-office/)
 
 [Instead of entering the room you decide to read the posters hanging on the wall](https://vu.nl/en/about-vu/more-about/stories)
-
-Photo by [sebastiaan stam](https://unsplash.com/@sebastiaanstam)

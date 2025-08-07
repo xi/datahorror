@@ -1,3 +1,9 @@
+---
+banner: 'img/steve-johnson-Kr8Tc8Rugdk-unsplash.jpg'
+bannerAttribution: 'Steve Johnson'
+bannerAttributionLink: 'https://unsplash.com/photos/Kr8Tc8Rugdk'
+---
+
 # Hidden document 1
 
 ![](./re3data.jpg)
@@ -12,6 +18,3 @@ why is it apparently hidden in the waste paper bin...?
 [Return to the waste paper bin](/office/paper-bin/)
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-
-Photo by [Steve Johnson](https://unsplash.com/@steve_j) on [Unsplash](https://unsplash.com/s/photos/mystery)

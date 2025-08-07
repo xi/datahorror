@@ -1,3 +1,7 @@
+---
+banner: 'img/noticeboard.png'
+---
+
 # Coded sheet
 
 ![](./coded-sheet.png)

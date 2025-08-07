@@ -1,3 +1,9 @@
+---
+banner: 'img/matthew-brodeur-zEFyM4sulJ8-unsplash.jpg'
+bannerAttribution: 'Matthew Brodeur'
+bannerAttributionLink: 'https://unsplash.com/photos/zEFyM4sulJ8'
+---
+
 The Professor might have left the office open, but at least the computer is
 locked so no-one can mess with his files.
 
@@ -16,9 +22,6 @@ Others with data management responsibilities: PhD candidate (name to be confirme
 
 This is the first version of the data management plan of the research project about ghost sightings around Halloween. A Data Management Plan (DMP) is a living document, and will be updated as the project progresses
 
-![](unnamed.png)
+![](./dmp.png)
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-
-Photo by [Matthew Brodeur](https://unsplash.com/@mrbrodeur)

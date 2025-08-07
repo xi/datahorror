@@ -1,3 +1,7 @@
+---
+banner: 'img/noticeboard.png'
+---
+
 # Coded sheet hint
 
 An ORCID id is a 16-digit code (you can read more about it on a flyer on the

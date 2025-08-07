@@ -1,3 +1,9 @@
+---
+banner: 'img/brett-jordan-oO7txJP2hls-unsplash.jpg'
+bannerAttribution: 'Brett Jordan'
+bannerAttributionLink: 'https://unsplash.com/photos/oO7txJP2hls'
+---
+
 # Postcard
 
 The back of the postcard reads:
@@ -43,5 +49,3 @@ The back of the postcard reads:
 [Look at the coded sheet](/office/noticeboard/coded-sheet/)
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-Photo by [Brett Jordan](https://unsplash.com/photos/the-new-york-times-square-oO7txJP2hls)

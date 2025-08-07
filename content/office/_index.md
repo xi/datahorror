@@ -1,3 +1,9 @@
+---
+banner: 'img/janko-ferlic-QOnmy00-unsplash.jpg'
+bannerAttribution: 'Janko Ferlič'
+bannerAttributionLink: 'https://unsplash.com/photos/sfL_QOnmy00'
+---
+
 So this is the office of Professor Hutseephluts. Although it's dimly lit, as
 far as you can tell, it looks pretty much like any other researcher's office.
 
@@ -22,5 +28,3 @@ travelling bag and its contents seem to have been hastily emptied out.
 [Look at the map on the wall](/office/map/)
 
 [Open the door](/locked-door/)
-
-Photo by [Janko Ferlič](https://unsplash.com/photos/photo-of-library-with-turned-on-lights-sfL_QOnmy00)

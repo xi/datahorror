@@ -1,4 +1,4 @@
-![](./address book.png)
+![](./address-book.png)
 
 Which of the data in the address book are personal data? (multiple answers possible) *
 

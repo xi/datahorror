@@ -1,3 +1,9 @@
+---
+banner: 'img/salvador-altamirano-z_X0PxmBuIQ-unsplash.jpg'
+bannerAttribution: 'Salvador Altamirano'
+bannerAttributionLink: 'https://unsplash.com/photos/z_X0PxmBuIQ'
+---
+
 The postcard shows an image of the Mexican Day of the Dead celebrations.
 
 [Read the back of the postcard](/office/noticeboard/postcard/back/)
@@ -9,6 +15,3 @@ The postcard shows an image of the Mexican Day of the Dead celebrations.
 [Look at the coded sheet](/office/noticeboard/coded-sheet/)
 
 [Take a look around Professor Hutseephluts' office](/office/)
-
-
-Photo by [Salvador Altamirano](https://unsplash.com/photos/person-with-skull-face-paint-and-umbrella-z_X0PxmBuIQ)
