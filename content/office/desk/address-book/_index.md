@@ -16,7 +16,7 @@ paths:
 > | Witch                  | 9 Broomstick Boulevard      | +1-800-333-4444 | witch\@cauldronmail.com   | 192.168.1.6 | A+         | Violet     | 250  | 165 cm |
 
 <form novalidate>
-  <p>Which of the data in the address book are personal data? (multiple answers possible)</p>
+  <p>Which of the data in the address book are personal data?</p>
   <fieldset>
     <label class="form-check"><input type="checkbox" required> Name</label>
     <label class="form-check"><input type="checkbox" required> Address</label>
@@ -56,6 +56,6 @@ paths:
     <input required pattern="D-B-E-C-A" placeholder="A-B-C-D-E" maxlength="9">
   </label>
   <p class="form-if-incorrect">That's not it.</p>
-  <p class="form-if-correct">Well done! A scrap of paper falls out of the address book, with the following word written on it: GOOD. Make a note of it.</p>
+  <p class="form-if-correct">Well done! A scrap of paper falls out of the address book, with the following word written on it: <strong>GOOD</strong>. Make a note of it!</p>
   <button>Check</button>
 </form>

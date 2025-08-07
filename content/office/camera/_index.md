@@ -5,8 +5,8 @@ bannerAttributionLink: 'https://unsplash.com/photos/bw2rUF3TNaM'
 paths:
   - label: 'Play the video that is on the camera'
     url: 'https://www.youtube.com/watch?v=2uZxFu9SFi8'
-  - label: 'Press on some of the buttons to get to the menu'
-    url: 'office/camera/manual/'
+  - label: 'Try to find the code for the menu'
+    url: 'office/camera/menu/'
   - label: "Take a look around Professor Hutseephluts' office"
     url: 'office/'
 ---
@@ -25,5 +25,5 @@ contained personal or sensitive data, or were just too big to publish.. Some of
 the films were made decades ago so nobody knew if the Professor was still
 planning on using them, or even if you could still open the files.
 
-You pick up the camera and switch it on. Maybe there's a clue to the
-Professor's whereabouts...
+You pick up the camera and switch it on. You press on some buttons on the
+camera and a menu shows up. It says: enter the FAIR code.

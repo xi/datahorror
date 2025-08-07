@@ -48,6 +48,6 @@ paths:
   </fieldset>
 
   <p class="form-if-incorrect">Think again!</p>
-  <p class="form-if-correct">Well done! On the back of the note, Prof. Hutseephluts scribbled PLANNING. Make a note of that.</p>
+  <p class="form-if-correct">Well done! On the back of the note, Prof. Hutseephluts scribbled <strong>PLANNING</strong>. Make a note of that!</p>
   <button>Check</button>
 </form>
