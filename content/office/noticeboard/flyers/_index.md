@@ -13,5 +13,5 @@ paths:
 
 # Flyers
 
-![](./ORCID-flyer.pdf)
-![](./what-is-a-DOI-flyer.pdf)
+<iframe class="pdf" src="./ORCID-flyer.pdf"></iframe>
+<iframe class="pdf" src="./what-is-a-DOI-flyer.pdf"></iframe>

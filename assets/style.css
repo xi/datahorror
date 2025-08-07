@@ -121,3 +121,10 @@ figcaption {
 .paths a:hover {
     background-color: #3f3f3f;
 }
+
+.pdf {
+    inline-size: 100%;
+    block-size: 80vb;
+    margin-block-end: 1em;
+    border: 0;
+}
