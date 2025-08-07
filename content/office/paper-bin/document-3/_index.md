@@ -59,16 +59,6 @@ the questions correctly or you may never see daylight again!
   </fieldset>
 
   <fieldset>
-    You are looking for a repository that stores data in the Netherlands. What are good options?</legend>
-    <label class="form-check"><input type="checkbox" required> 4TU.ResearchData</label>
-    <label class="form-check"><input type="checkbox" required> DANS EASY</label>
-    <label class="form-check"><input type="checkbox"> Zenodo</label>
-    <label class="form-check"><input type="checkbox"> Dryad</label>
-    <label class="form-check"><input type="checkbox" required> DataverseNL</label>
-    <label class="form-check"><input type="checkbox"> The Addams Family Mansion</label>
-  </fieldset>
-
-  <fieldset>
     <legend>If there is no licence, this means that anyone can do anything with the data.<legend>
     <label class="form-check"><input name="license" type="radio"> True</label>
     <label class="form-check"><input name="license" type="radio" required> False</label>
