@@ -1,0 +1,75 @@
+:root {
+    font-family: sans-serif;
+    line-height: 1.7;
+}
+
+img {
+    max-inline-size: 100%;
+    block-size: auto;
+}
+
+body {
+    background-color: #555550;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    min-block-size: 100vb;
+    display: grid;
+    grid-template-rows: min-content 1fr min-content;
+}
+
+a {
+    color: inherit;
+}
+
+.container {
+    max-inline-size: 60rem;
+    padding-inline: 1rem;
+    margin-inline: auto;
+}
+
+header,
+footer {
+    background-color: #434340;
+    padding-block: 1rem;
+}
+
+main {
+    padding-block: 1rem 3rem;
+}
+
+footer {
+    font-size: 90%;
+}
+
+header .container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+@media (min-width: 40rem) {
+    header .container {
+        flex-direction: row;
+        gap: 2em;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.brand {
+    font-size: 150%;
+    line-height: 1;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    gap: 1.2em;
+}
+
+nav a {
+    font-weight: bold;
+    text-decoration: none;
+}

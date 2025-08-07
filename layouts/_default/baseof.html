@@ -9,19 +9,25 @@
 </head>
 <body>
     <header>
-        <a class="brand" href="/" rel="home">Data Horror Escape Room</a>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/about/">About this website</a>
-        </nav>
+        <div class="container">
+            <a class="brand" href="/" rel="home">Data Horror Escape Room</a>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/about/">About this website</a>
+            </nav>
+        </div>
     </header>
     <main>
-        {{ block "main" . }}{{ end }}
+        <div class="container">
+            {{ block "main" . }}{{ end }}
+        </div>
     </main>
     <footer>
-        &copy; 2025 Tobias Bengfort &middot;
-        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA-4.0</a> <br>
-        based on <a href="https://sites.google.com/vu.nl/datahorror/">Data Horror Escape Room</a> by Vrije Universiteit Amsterdam, Leiden University and Eindhoven University of Technology
+        <div class="container">
+            &copy; 2025 Tobias Bengfort &middot;
+            <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA-4.0</a> <br>
+            based on <a href="https://sites.google.com/vu.nl/datahorror/">Data Horror Escape Room</a> by Vrije Universiteit Amsterdam, Leiden University and Eindhoven University of Technology
+        </div>
     </footer>
 </body>
 </html>
