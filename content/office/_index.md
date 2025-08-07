@@ -1,7 +1,7 @@
 ---
-banner: 'img/janko-ferlic-QOnmy00-unsplash.jpg'
-bannerAttribution: 'Janko Ferlič'
-bannerAttributionLink: 'https://unsplash.com/photos/sfL_QOnmy00'
+banner: 'img/kaur-kristjan-CpPF4W5PB1c-unsplash.jpg'
+bannerAttribution: 'Kaur Kristjan'
+bannerAttributionLink: 'https://unsplash.com/photos/CpPF4W5PB1c'
 paths:
   - label: 'Go to the desk'
     url: 'office/desk/'

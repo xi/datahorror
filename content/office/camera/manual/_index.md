@@ -1,7 +1,7 @@
 ---
-banner: 'img/alexander-jawfox-H3bUrt4t1ZI-unsplash.jpg'
-bannerAttribution: 'Alexander Jawfox'
-bannerAttributionLink: 'https://unsplash.com/photos/H3bUrt4t1ZI'
+banner: 'img/dan-cristian-padure-bw2rUF3TNaM-unsplash.jpg'
+bannerAttribution: 'Dan-Cristian Pădureț'
+bannerAttributionLink: 'https://unsplash.com/photos/bw2rUF3TNaM'
 paths:
   - label: 'Read the manual to figure out the code'
     url: 'office/camera/menu/'

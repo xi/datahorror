@@ -1,7 +1,7 @@
 ---
-banner: 'img/sear-greyson-K-ZsC7YdJ6Y-unsplash.jpg'
-bannerAttribution: 'Sear Greyson'
-bannerAttributionLink: 'https://unsplash.com/photos/K-ZsC7YdJ6Y'
+banner: 'img/steve-johnson-Kr8Tc8Rugdk-unsplash.jpg'
+bannerAttribution: 'Steve Johnson'
+bannerAttributionLink: 'https://unsplash.com/photos/Kr8Tc8Rugdk'
 paths:
   - label: 'Return to the waste paper bin'
     url: 'office/paper-bin/'

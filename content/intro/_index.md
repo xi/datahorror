@@ -1,7 +1,7 @@
 ---
-banner: 'img/sebastiaan-stam-WXeJcabNzhE-unsplash.jpg'
-bannerAttribution: 'sebastiaan stam'
-bannerAttributionLink: 'https://unsplash.com/photos/WXeJcabNzhE'
+banner: 'img/pumkin.jpg'
+bannerAttribution: 'Ben Peters'
+bannerAttributionLink: 'http://www.dehondsdagen.nl/'
 paths:
   - label: 'You try the door'
     url: 'intro/stepping-into-the-office/'

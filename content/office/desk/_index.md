@@ -1,7 +1,7 @@
 ---
-banner: 'img/clint-patterson-ulftbH1sA0k-unsplash.jpg'
-bannerAttribution: 'Clint Patterson'
-bannerAttributionLink: 'https://unsplash.com/photos/ulftbH1sA0k'
+banner: 'img/kaur-kristjan-CpPF4W5PB1c-unsplash.jpg'
+bannerAttribution: 'Kaur Kristjan'
+bannerAttributionLink: 'https://unsplash.com/photos/CpPF4W5PB1c'
 paths:
   - label: 'Open the address book'
     url: 'office/desk/address-book/'

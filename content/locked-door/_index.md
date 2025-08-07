@@ -1,7 +1,4 @@
 ---
-banner: 'img/ashim-dsilva-IoByqNem10o-unsplash.jpg'
-bannerAttribution: 'Ashim D’Silva'
-bannerAttributionLink: 'https://unsplash.com/photos/IoByqNem10o'
 paths:
   - label: "Take a look around Professor Hutseephluts' office"
     url: 'office/'

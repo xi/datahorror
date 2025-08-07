@@ -1,7 +1,7 @@
 ---
-banner: 'img/markus-winkler-HiB5ItDg4ME-unsplash.jpg'
-bannerAttribution: 'Markus Winkler'
-bannerAttributionLink: 'https://unsplash.com/photos/HiB5ItDg4ME'
+banner: 'img/dan-cristian-padure-bw2rUF3TNaM-unsplash.jpg'
+bannerAttribution: 'Dan-Cristian Pădureț'
+bannerAttributionLink: 'https://unsplash.com/photos/bw2rUF3TNaM'
 paths:
   - label: 'Play the video that is on the camera'
     url: 'https://www.youtube.com/watch?v=2uZxFu9SFi8'

@@ -1,7 +1,7 @@
 ---
-banner: 'img/brett-jordan-oO7txJP2hls-unsplash.jpg'
-bannerAttribution: 'Brett Jordan'
-bannerAttributionLink: 'https://unsplash.com/photos/oO7txJP2hls'
+banner: 'img/salvador-altamirano-z_X0PxmBuIQ-unsplash.jpg'
+bannerAttribution: 'Salvador Altamirano'
+bannerAttributionLink: 'https://unsplash.com/photos/z_X0PxmBuIQ'
 paths:
   - label: 'Put the postcard back on the Noticeboard'
     url: 'office/noticeboard/'
