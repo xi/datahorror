@@ -23,6 +23,12 @@ blockquote {
     background: var(--color-fg);
     color: var(--color-bg2);
 }
+blockquote > :first-child {
+    margin-block-start: 0;
+}
+blockquote > :last-child {
+    margin-block-end: 0;
+}
 
 ul, ol {
     padding-inline-start: 1.5em;
