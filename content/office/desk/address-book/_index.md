@@ -34,7 +34,7 @@ paths:
 </form>
 
 <form class="form-if-previous-correct" novalidate>
-  <p>Last year five studies were conducted in which personal data were collected:</p>
+  <p>From the notes you understand that this data was collected in five different studies:</p>
   <ul>
     <li>study A collected participants’ age</li>
     <li>study B collected participants’ place of birth</li>
@@ -42,17 +42,21 @@ paths:
     <li>study D collected participants’ eye colour</li>
     <li>study E collected participants’ blood type</li>
   </ul>
-  <p>Put the studies in chronological order. You are given the following clues:</p>
+  <p>
+    In each study, participants were assured that the raw data would be destroyed by a specific date.
+    Some dates are noted in the margins, but it's unclear which date corresponds to which study.
+    Fortunately, there are some clues:
+  </p>
   <ul>
     <li>The second study did not collect IP addresses or blood types</li>
-    <li>The largest study was the study collecting eye colour</li>
+    <li>The largest study was the one collecting eye color</li>
     <li>The study collecting blood types was conducted before the study collecting IP addresses</li>
     <li>The study collecting places of birth was not the last study</li>
-    <li>The study collecting ages was conducted after the study collecting IP addresses</li>
+    <li>The study collecting ages was conducted after the one that collected IP addresses</li>
     <li>The largest study was conducted first</li>
   </ul>
   <label>
-    What is the correct order of the studies?
+    What is the correct order of studies?
     <input required pattern="D-B-E-C-A" placeholder="A-B-C-D-E" maxlength="9">
   </label>
   <p class="form-if-incorrect">That's not it.</p>
