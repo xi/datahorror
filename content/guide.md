@@ -198,35 +198,14 @@ out discussion points that are not relevant.
 
 ### Puzzles
 
-These are the puzzles and resulting code words that are delivered in the
-game:
-
--   Address book
-    -   RDM challenge: What constitutes personal data
-    -   Solution: All answers are correct; D-B-E-C-A
-    -   Code word: Good
--   Notice board
-    -   RDM challenge: Persistent identifiers
-    -   Solution: Pablo Colunga-Salas's ORCID is 0000-0002-1355-0939.
-        This ORCID identifies the code word on the coded sheet.
-    -   Code word: Helps
--   Filing cabinet
-    -   RDM challenge: Metadata
-    -   Solution: 1-2-4-6-8-10-12
-    -   Code word: Horror
--   Camera
-    -   RDM challenge: FAIR
-    -   Solution: C-D-E-G
-    -   Code word: Data
--   Waste paper bin
-    -   RDM challenge: Preserving data
-    -   Solution: All answers are correct; all answers are correct;
-        True; True; CE; False
-    -   Code word: Avoid
--   Wall map
-    -   RDM challenge: transferring data across borders
-    -   Solution: All answers are correct
-    -   Code word: Planning
+| Puzzle          | Topic           | Solution                                        | Code word |
+| --------------- | --------------- | ------------------------------------------------| --------- |
+| Address book    | Personal data   | all answers; D-B-E-C-A                          | Good      |
+| Notice board    | Persistent IDs  | see below                                       | Helps     |
+| Filing cabinet  | Metadata        | 1-2-4-6-8-10-12                                 | Horror    |
+| Camera          | FAIR            | C-D-E-G                                         | Data      |
+| Waste paper bin | Preserving data | all answers; all answers; True; True; CE; False | Avoid     |
+| Wall map        | Data transfer   | all answers                                     | Planning  |
 
 ### Complete solution for unlocking the computer
 
