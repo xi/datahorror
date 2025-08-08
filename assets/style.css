@@ -127,17 +127,11 @@ footer {
 
 header .container {
     display: flex;
-    flex-direction: column;
-    gap: 0.5em;
-}
-
-@media (min-width: 40rem) {
-    header .container {
-        flex-direction: row;
-        gap: 2em;
-        justify-content: space-between;
-        align-items: center;
-    }
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 2em;
+    row-gap: 0.5em;
 }
 
 .brand {
@@ -148,8 +142,9 @@ header .container {
 
 nav {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
-    gap: 1.2em;
+    column-gap: 1.2em;
 }
 
 nav a {
