@@ -25,7 +25,7 @@ paths:
 > | 0021 | 0843 | 1648 | 1005 | 5538 | 0006 | 1355 | 0425 |
 > | NS   | DR   | I    | V    | ES   | T    | P    | NG   |
 >
-> Pablo's ORCID: make a not of this word.
+> Pablo's ORCID: make a note of this word.
 
 <details>
   <summary>Hint</summary>
