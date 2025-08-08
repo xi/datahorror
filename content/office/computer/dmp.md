@@ -8,7 +8,8 @@ paths:
 
 Lead researcher: Professor Hutseephluts\
 ORCID: 0000-7f80-9074-7564\
-Others with data management responsibilities: PhD candidate (name to be confirmed).
+Others with data management responsibilities: PhD candidate (name to be confirmed)\
+Last update: <time></time>
 
 This is the first version of the data management plan of the research project about ghost sightings around Halloween. A Data Management Plan (DMP) is a living document, and will be updated as the project progresses.
 

@@ -95,8 +95,8 @@ have already tried it out, it will spoil the fun.
 -   Consider whether, and therefore how, you would like participants to
     confirm they have completed the game. If they complete it during the
     session they might just shout out, if they complete it afterwards,
-    you could ask them to make a screenshot when they escape, with or
-    without timestamp.
+    you could ask them to make a screenshot of the finished data
+    management plan.
 -   Make plans to keep players busy after completing the game whilst
     they wait for the other teams to finish. For example, you could
     provide prompts for each team to discuss among themselves topics
@@ -182,17 +182,13 @@ out discussion points that are not relevant.
 -   Players have finished the game when they find the completed data
     management plan. If a prize is involved, verify that they have
     reached that page.
--   There is no formal record of when a team completes the game (but see
-    the note below about the team-registration version). In a live
-    event, a team can shout out when they have finished. Facilitators
-    can, however, give more specific instructions to provide proof that
-    the game was completed, and a time-stamp if that is relevant: tell
-    participants in advance that they should take a screenshot when they
-    escape so that they can prove that they have completed the game. If
-    you are awarding a prize for the fastest team, the file will include
-    a timestamp in the metadata, or you can ask them to make sure that
-    the computer screen's clock is on the screenshot to prove the moment
-    of escape.
+-   In a live event, a team can shout out when they have finished.
+    Facilitators can give more specific instructions to provide proof
+    that the game was completed. If relevant, you can tell participants
+    that they should take a screenshot of the data management plan so
+    that they can prove that they have completed the game. If you are
+    awarding a prize for the fastest team, the data management plan
+    contains a time stamp.
 
 ## Solutions
 
