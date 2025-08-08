@@ -14,6 +14,7 @@ paths:
 > | Werewolf               | 1 Full Moon Crescent        | +1-800-999-0000 | werewolf\@howlmail.com    | 192.168.1.4 | B+         | Yellow     | 150  | 190 cm |
 > | Ghost                  | 4 Haunted House Road        | +1-800-111-2222 | ghost\@spookymail.com     | 192.168.1.5 | AB+        | Blue       | 100  | 160 cm |
 > | Witch                  | 9 Broomstick Boulevard      | +1-800-333-4444 | witch\@cauldronmail.com   | 192.168.1.6 | A+         | Violet     | 250  | 165 cm |
+{class="table-wrapper"}
 
 <form novalidate>
   <p>Which of the data in the address book are personal data?</p>
