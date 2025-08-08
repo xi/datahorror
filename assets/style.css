@@ -106,7 +106,7 @@ a {
 }
 
 .container {
-    max-inline-size: 60rem;
+    max-inline-size: 50rem;
     padding-inline: 1rem;
     margin-inline: auto;
 }
