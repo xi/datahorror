@@ -44,7 +44,7 @@ You open the booklet and hold it next to the camera menu. This is what it says:
 <form novalidate>
   <label>
     Select the letters that correspond to the correct answers
-    <input required pattern="C-D-E-G" placeholder="A-B-C">
+    <input required pattern="C-D-E-G" placeholder="A-B-C-…">
   </label>
   <p class="form-if-incorrect">That's not it.</p>
   <p class="form-if-correct">In the camera menu, there's only one option: DATA. Make a note of it!</p>
