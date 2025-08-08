@@ -23,7 +23,7 @@
             </nav>
         </div>
     </header>
-    <main>
+    <div>
         {{- if .Params.Banner }}
             <figure class="banner">
                 <img src="{{ .Params.Banner | relURL }}" alt="">
@@ -34,7 +34,7 @@
                 {{- end }}
             </figure>
         {{- end }}
-        <div class="container">
+        <main class="container">
             {{- block "main" . -}}{{- end -}}
 
             <ul class="paths">
@@ -42,8 +42,8 @@
                     <li><a href="{{ .url | relURL }}" {{- if hasPrefix .url "http" }}target="_blank"{{ end }}>{{ .label }}</a></li>
                 {{- end }}
             </ul>
-        </div>
-    </main>
+        </main>
+    </div>
     <footer>
         <div class="container">
             &copy; 2025 Tobias Bengfort &middot;
